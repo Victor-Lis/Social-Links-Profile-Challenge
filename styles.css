@@ -90,3 +90,12 @@ body{
 
 .attribution { font-size: 11px; text-align: center; position: absolute; bottom: 15px; color: #fff}
 .attribution a { color: hsl(75, 94%, 57%); }
+
+
+@media (min-width: 600px) {
+    .card{
+
+        /*    padding: 5% 5% 3.5% 5%;   */
+        padding: 30px 30px 22.5px 30px;
+    }
+}
