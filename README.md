@@ -9,14 +9,14 @@ Esse é mais um desafio de Front-End que realizo, dessa vez com o tema de realiz
 ![Desktop result preview](./design/desktop-result.png)
 
 ## Mobile Design
-<center>
+<div align="center">
   <img src="./design/mobile-design.jpg" alt="Mobile design preview">
-</center>
+</div>
 
 ## Mobile Result
-<center>
+<div align="center">
   <img src="./design/mobile-result.png" alt="Mobile result preview">
-</center>
+</div>
 
 ## Hover Design
 ![Hover design preview](./design/active-states.jpg)
